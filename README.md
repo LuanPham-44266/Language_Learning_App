@@ -47,3 +47,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to use this GitHub description as a starting point for your Language learning app project using Flutter and a dynamic UI. Adjust the features and libraries used to suit your specific implementation. Happy coding!
 
+# Language Learning App
+
+## Requirements
+- Flutter 3.38+
+- Dart 3+
+
+## How to run
+flutter pub get
+flutter run -d windows
+29adfb32d38beedeb4e7ffe9520e32eefcdebba2
